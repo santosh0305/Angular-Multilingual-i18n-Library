@@ -2,5 +2,8 @@
   "HOME": {
     "TITLE": "Hola Angular con ngx-translate!",
     "SELECT": "Cambia el idioma"
+  },
+  "ERROR": {
+    "INVALIDCART": "Tarjeta no valida !!"
   }
 }
